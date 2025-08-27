@@ -11,7 +11,7 @@ console.log(name)
 let number, text, bool;
 number = 5;
 text = "ciao";
-bool = 1;
+bool = false;
 console.log(number + text + bool)
 
 // 3. Sostituisci null nelle righe sottostanti utilizzando operazioni con le stringhe
